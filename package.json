@@ -1,10 +1,10 @@
 {
-  "homepage": "https://hassaanhameed.github.io/react-resume-project",
   "name": "mui-p1",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.4.1",
+    "homepage": "https://hassaanhameed.github.io/react-resume-project",
     "@emotion/styled": "^11.3.0",
     "@mui/icons-material": "^5.0.0",
     "@mui/material": "^5.0.0",
