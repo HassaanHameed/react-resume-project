@@ -1,0 +1,24 @@
+html {
+  scroll-behavior: smooth;
+}
+.App {
+  font-family: sans-serif;
+  font-size: 35px;
+  font-weight: bold;
+  color: blue;
+  /* justify-content: center; */
+  margin-top: 15px;
+  margin-left: 5%;
+  background: none;
+}
+.randomLine {
+  height: 3px;
+  width: 60px;
+  background-color: #00a6eb;
+  margin-bottom: 20px;
+  border-radius: 10px;
+}
+#back-to-top-anchor {
+  z-index: -1;
+  position: absolute;
+}
